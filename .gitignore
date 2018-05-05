@@ -1,2 +1,4 @@
 $ cat Documentation/.gitignore
 practice/.vs*
+practice/Debug*
+practice/Release*
